@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lokesh Vallapu 👋
+# Lokesh Vallapu 
 
 ### Data Analyst & Data Scientist
 
