@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lokesh Vallapu 👋
+ Lokesh Vallapu 
 
 ### Data Analyst & Data Scientist
 
