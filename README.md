@@ -14,7 +14,7 @@ I am passionate about transforming **raw data into actionable insights** and bui
 
 open to work
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
