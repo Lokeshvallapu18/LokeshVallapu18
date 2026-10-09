@@ -72,3 +72,11 @@ I am passionate about transforming **Raw Data into Actionable Insights** and bui
   <a href="mailto:lokeshvallapu18@gmail.com">Contact Me</a> ·
   <a href="https://github.com/Lokeshvallapu18">GitHub Profile</a>
 </p>
+
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lokeshvallapu18@gmail.com">Contact Me</a>
+  ·
+  <a href="https://github.com/Lokeshvallapu18">GitHub Profile</a>
+</p>
+
