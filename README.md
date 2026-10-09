@@ -12,7 +12,7 @@ I am a Computer Science Engineering graduate specializing in Data Science, with 
 
 I am passionate about transforming **Raw Data into Actionable Insights** and building **Machine Learning models for Predictive Analysis**.
 
-open to work
+**Open to work**
 
 ## Tech Stack
 
