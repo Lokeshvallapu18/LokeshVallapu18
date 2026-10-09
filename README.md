@@ -10,7 +10,7 @@
 
 I am a Computer Science Engineering graduate specializing in Data Science, with a strong interest in **Data Science and Data Analyst**.
 
-I am passionate about transforming **raw data into actionable insights** and building **machine learning models for predictive analysis**.
+I am passionate about transforming **Raw Data into Actionable Insights** and building **Machine Learning models for Predictive Analysis**.
 
 open to work
 
