@@ -52,15 +52,18 @@ open to work
 
 
 ---
-
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lokeshvallapu18&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lokeshvallapu18&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+       alt="GitHub Statistics"
+       width="350"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lokeshvallapu18&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Lokeshvallapu18&theme=github-dark-blue&hide_border=true"
+       alt="GitHub Contribution Streak"
+       width="350"/>
 </p>
 
 ---
@@ -69,4 +72,3 @@ open to work
   <a href="mailto:lokeshvallapu18@gmail.com">Contact Me</a> ·
   <a href="https://github.com/Lokeshvallapu18">GitHub Profile</a>
 </p>
-
